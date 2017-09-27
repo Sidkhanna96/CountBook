@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CountBook</string>
+    <string name="Increment">+</string>
+    <string name="Decrement">-</string>
+    <string name="CurrentValue">0</string>
+</resources>
